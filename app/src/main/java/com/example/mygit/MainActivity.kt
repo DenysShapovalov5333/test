@@ -17,4 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
     }
+
+
+    private  val TAG = "check main branch"
 }
