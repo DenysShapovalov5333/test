@@ -20,4 +20,7 @@ class MainActivity : AppCompatActivity() {
         }
         Log.d("TAG", "onCreate:  я переключився на адрес")
     }
+
+
+    private  val TAG = "check main branch"
 }
