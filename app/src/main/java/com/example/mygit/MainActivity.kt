@@ -23,4 +23,10 @@ class MainActivity : AppCompatActivity() {
 
 
     private  val TAG = "check main branch"
+
+
+    private  val TAG2 = "нові стрінги в третю вітку"
+
+
+
 }
